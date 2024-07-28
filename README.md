@@ -1,0 +1,2 @@
+# NameGen
+Generates unique usernames 
